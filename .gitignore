@@ -18,4 +18,5 @@ buildNumber.properties
 
 .idea/
 .vscode/
-.env
+.env.DS_Store
+.DS_Store
