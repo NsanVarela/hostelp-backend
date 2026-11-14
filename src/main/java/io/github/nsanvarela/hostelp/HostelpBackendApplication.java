@@ -1,4 +1,4 @@
-package hostelp_backend;
+package io.github.nsanvarela.hostelp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

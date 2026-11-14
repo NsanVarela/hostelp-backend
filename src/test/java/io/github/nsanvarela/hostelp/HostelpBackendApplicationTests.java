@@ -1,4 +1,4 @@
-package hostelp_backend;
+package io.github.nsanvarela.hostelp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

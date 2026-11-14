@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>hostelp-backend</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>io.github.nsanvarela</groupId>
+	<artifactId>hostelp-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hostelp-backend</name>
+	<name>Hostelp Backend</name>
 	<description>Backend de Hostelp</description>
 
 	<properties>

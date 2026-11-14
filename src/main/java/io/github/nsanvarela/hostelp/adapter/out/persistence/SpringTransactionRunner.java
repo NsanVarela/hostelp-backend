@@ -1,6 +1,6 @@
-package hostelp_backend.adapter.out.persistence;
+package io.github.nsanvarela.hostelp.adapter.out.persistence;
 
-import hostelp_backend.domain.port.out.TransactionRunner;
+import io.github.nsanvarela.hostelp.domain.port.out.TransactionRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.support.TransactionTemplate;

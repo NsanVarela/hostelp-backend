@@ -1,4 +1,4 @@
-package hostelp_backend.domain.port.out;
+package io.github.nsanvarela.hostelp.domain.port.out;
 
 import java.util.function.Supplier;
 

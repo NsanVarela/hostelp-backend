@@ -1,4 +1,4 @@
-package hostelp_backend.adapter.in.web;
+package io.github.nsanvarela.hostelp.adapter.in.web;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
