@@ -1,11 +1,11 @@
 services:
   postgres:
-    image: postgres:17
+    image: postgres:16-alpine
     container_name: hostelp-postgres
     environment:
       POSTGRES_DB: hostelp
       POSTGRES_USER: hostelp
-      POSTGRES_PASSWORD: hostelp
+      POSTGRES_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD manquant dans .env}
     ports:
       - "5432:5432"
     volumes:
